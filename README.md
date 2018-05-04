@@ -11,6 +11,10 @@ A Flask based app, which inspects social media accounts, displaying statistics, 
 
 1. Visit [web site](https://md-analytics.herokuapp.com)
 
+***
+PLEASE NOTE!
+Twitter access credentials to this app were revoked. This app is unable to connect to the Twitter API anymore. Its Heroku instance still displays home page.
+***
 
 
 2. Sign in with one/all of social-mediar account/s
